@@ -14,7 +14,7 @@ cd Arduino-Codes</p>
 </p>
 <h2>Usage</h2></br>
 <p>Navigate to the directory of the specific data structure and language you’re interested in and then find the code you are looking for by looking at the file names. Each file name has a keyword for the problem.</br>
-<p style="font-weight: bold;"> for uploading a sketch:</p></br>
+<p style="font-weight: bold;">Examples for uploading a sketch:</p>
 1. Connect your Arduino board to your computer.</br>
 2. Open the Arduino IDE.</br>
 3. Load the sketch from the repository.</br>
