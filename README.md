@@ -21,7 +21,23 @@ cd Arduino-Codes</p>
 4. Select the correct board and port.</br>
 5. Click the "Upload" button.</br></p>
 <h2>Projects</h2>
-<h4>Blink</h4> <p>A simple LED blinking program</p>
-<h4>Motor Control</h4> <p>Code to control a DC motor</p>
-<h4>Sensor Integration</h4> <p>Examples of integrating various sensors like temperature, humidity, and more</p>
-<h4>Bluetooth Communication</h4> <p>Code for Bluetooth communication with Arduino</p>
+
+- **16_SWITCH_KEYPAD** – _description goes here_
+- **7SEGMENT** – _description goes here_
+- **ACCELEROMETER** – _description goes here_
+- **BLUETOOTH** – _description goes here_
+- **BOTS** – _description goes here_
+- **BUTTONS** – _description goes here_
+- **Blink_register** – _description goes here_
+- **I2C_LCD** – _description goes here_
+- **IR_SENSOR** – _description goes here_
+- **LCD** – _description goes here_
+- **LED** – _description goes here_
+- **MOTOR_DRIVER** – _description goes here_
+- **PIR_SENSOR** – _description goes here_
+- **RAIN_SENSOR** – _description goes here_
+- **RGB_LED** – _description goes here_
+- **SERVO** – _description goes here_
+- **SOIL_MOISTURE_SENSOR** – _description goes here_
+- **SPEAKER** – _description goes here_
+- **ULTRASONIC** – _description goes here_
