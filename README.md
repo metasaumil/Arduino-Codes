@@ -22,22 +22,109 @@ cd Arduino-Codes</p>
 5. Click the "Upload" button.</br></p>
 <h2>Projects</h2>
 
-- **16_SWITCH_KEYPAD** – _description goes here_
-- **7SEGMENT** – _description goes here_
-- **ACCELEROMETER** – _description goes here_
-- **BLUETOOTH** – _description goes here_
-- **BOTS** – _description goes here_
-- **BUTTONS** – _description goes here_
-- **Blink_register** – _description goes here_
-- **I2C_LCD** – _description goes here_
-- **IR_SENSOR** – _description goes here_
-- **LCD** – _description goes here_
-- **LED** – _description goes here_
-- **MOTOR_DRIVER** – _description goes here_
-- **PIR_SENSOR** – _description goes here_
-- **RAIN_SENSOR** – _description goes here_
-- **RGB_LED** – _description goes here_
-- **SERVO** – _description goes here_
-- **SOIL_MOISTURE_SENSOR** – _description goes here_
-- **SPEAKER** – _description goes here_
-- **ULTRASONIC** – _description goes here_
+- **16_SWITCH_KEYPAD**
+  - `Four_digit_password_led.ino`
+  - `Four_digit_password_open.ino`
+  - `Four_digit_password_open_close.ino`
+  - `LockLEDs.ino`
+
+- **7SEGMENT**
+  - `0_TO_99.ino`
+  - `0_to_99_counter.ino`
+  - `Electric_die.ino`
+  - `ZERO_TO_NINE.ino`
+  - `button_counter.ino`
+
+- **ACCELEROMETER**
+  - `Basic_fowd_bcd_testing.ino`
+  - `Directions.ino`
+  - `Servo.ino`
+
+- **BLUETOOTH**
+  - `LED.ino`
+  - `relay_irl.ino`
+
+- **BOTS**
+  - `BluetoothBot.ino`
+  - `Football bot.ino`
+  - `Humanoid.ino`
+  - `LDR_BOT.ino`
+  - `ObstacleFollower.ino`
+  - `Pick_Drop.ino`
+  - `Pick_Drop_voice_controlled.ino`
+  - `SelfBalancing.ino`
+
+- **BUTTONS**
+  - `Piano.ino`
+  - `button_1.ino`
+  - `switch.ino`
+
+- **Blink_register**
+  - `Blink_register.ino`
+
+- **I2C_LCD**
+  - `LCD_Scrolling.ino`
+  - `LCD_Shooter_Game.ino`
+  - `LCD_Stopwatch.ino`
+  - `LCD_Stopwatch_Timer.ino`
+
+- **IR_SENSOR**
+  - `Double_ir_counter.ino`
+  - `LineFollowerQTR.ino`
+
+- **LCD**
+  - `Hello_World.ino`
+  - `IR_COUNTER.ino`
+
+- **LED**
+  - `5led_pattern.ino`
+  - `5led_pattern_bluetooth.ino`
+  - `6led_pattern.ino`
+  - `8LED_5PATTERNS.ino`
+  - `Bluetooth_led.ino`
+  - `LedPatterns.ino`
+  - `RGB_TRANSITION.ino`
+  - `TrafficLightSystem.ino`
+  - `singleLED.ino`
+  - `traffic_lights.ino`
+  - `twoLED_alternate.ino`
+
+- **MOTOR_DRIVER**
+  - `CIRCLE.ino`
+  - `MOTOR_DRIVER.ino`
+  - `SQUARE.ino`
+  - `ZIG_ZAG.ino`
+
+- **PIR_SENSOR**
+  - `PIR_SENSOR.ino`
+
+- **RAIN_SENSOR**
+  - `Rain_Sensor_Analog.ino`
+  - `Rain_Sensor_Digital.ino`
+  - `Rain_Sensor_Servo.ino`
+
+- **RGB_LED**
+  - `Blink_rgb.ino`
+  - `button_rgb.ino`
+  - `smooth_transition.ino`
+
+- **SERVO**
+  - `Servo_YOOO.ino`
+  - `Servo_palm.ino`
+  - `Servo_plam_open_close.ino`
+
+- **SOIL_MOISTURE_SENSOR**
+  - `Water_pump_analog.ino`
+  - `Water_pump_on_off.ino`
+
+- **SPEAKER**
+  - `Hello_welcome.ino`
+
+- **ULTRASONIC**
+  - `Distance_printer.ino`
+  - `Distance_printer_alternate.ino`
+  - `Duble_Ultrasonic_Bot.ino`
+  - `RADAR.ino`
+  - `Servo_ultrasonic.ino`
+  - `Triple_ultrasonic_bot.ino`
+  - `Ultrasonic_bot1.ino`
