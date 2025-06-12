@@ -20,8 +20,7 @@ cd Arduino-Codes</p>
 3. Load the sketch from the repository.</br>
 4. Select the correct board and port.</br>
 5. Click the "Upload" button.</br></p>
-<h2>Projects</h2>
-
+<h2>Projects</h2></br>
 - **16_SWITCH_KEYPAD**
   - `Four_digit_password_led.ino`
   - `Four_digit_password_open.ino`
